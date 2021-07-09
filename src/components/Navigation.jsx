@@ -46,7 +46,7 @@ function Navigation(props) {
                 }`}
               >
                 <Link class="nav-link" to="/video">
-                  Travel
+                  Video
                 </Link>
               </li>
               <li

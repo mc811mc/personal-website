@@ -18,9 +18,13 @@ function Video() {
               This is my youtube promotion page.<br></br>
             </p>
           </div>
-          <div>
-            
-          </div>
+          <iframe 
+            src="https://www.youtube.com/embed/WGBTuf2YD3o"
+            frameborder='0'
+            allow='autoplay; encrypted-media'
+            allowFullScreen
+            title='korea-bike-trip-2021'
+          />
         </div>
       </div>
     </div>
