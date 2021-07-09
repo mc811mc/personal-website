@@ -1,4 +1,13 @@
-You can follow my latest posts and tweets here!
+Welcome to my personal website public repository!
+
+I made this website from the following references, 
+
+* [BetterProgramming](https://betterprogramming.pub/how-to-host-your-react-app-on-github-pages-for-free-919ad201a4cb) by Sabesan Sathananthan
+* [Techmoro](https://www.techomoro.com/how-to-create-a-multi-page-website-with-react-in-5-minutes/) by Syamlal CM
+
+Want to keep up with the latest from me?
+
+You can follow my social media accounts here!
 
 📷 [Instagram](https://www.instagram.com/minhocho.travel/)
 
