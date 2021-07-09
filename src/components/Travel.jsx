@@ -24,6 +24,9 @@ function Travel() {
                 <p>군제대 후 떠난 발리 한 달 살기</p>
                 <p>"꿈과 현실이 공존하는 발리에서의 한 달 살기"</p>	
             </article>
+            <article>
+              Korea Bike Trip
+            </article>
           </div>
           <div>
             <a href="https://www.instagram.com/minhocho.travel/">Instagram</a><br></br>

@@ -25,7 +25,7 @@
 // export default App;
 import React from "react";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, About, Travel, Programming } from "./components";
+import { Navigation, Footer, Home, Programming, Travel, Video, About } from "./components";
 function App() {
   return (
     <div className="App">
@@ -35,6 +35,7 @@ function App() {
           <Route path="/" exact component={() => <Home />} />
           <Route path="/programming" exact component={() => <Programming />} />
           <Route path="/travel" exact component={() => <Travel />} />
+          <Route path="/video" exact component={() => <Video />} />
           <Route path="/about" exact component={() => <About />} />
         </Switch>
         <Footer />
