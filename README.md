@@ -1,4 +1,24 @@
-# Getting Started with Create React App
+You can follow my latest posts and tweets here!
+
+📷 [Instagram](https://www.instagram.com/minhocho.travel/)
+
+🐦 [Twitter](https://twitter.com/MinhoCho)
+
+You can sponsor me through here!
+
+🎏 [Patreon](https://www.patreon.com/creator-home)
+
+You can get an Airbnb Referral here!
+
+🏠 [Airbnb](https://www.airbnb.com/c/mcho130?referral_share_id=dbd79969-594f-4f96-92d3-8ce168c19c91)
+
+You can have a peek into my music taste!
+
+🎼 [Youtube Music Playlist](https://www.youtube.com/playlist?list=PLLmrpovc64SNGt_YfevHTeLZTmkDhAI2G)
+
+🎌 [Youtube Japanese Music Playlist](https://www.youtube.com/playlist?list=PLLmrpovc64SMlLvDsYVxBjW7GkJmPc-RV)
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +87,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
