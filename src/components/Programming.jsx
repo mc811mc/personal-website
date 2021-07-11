@@ -5,19 +5,19 @@ function Programming() {
     <div className="programming">
       <div class="container">
         <div class="row align-items-center my-5">
-          <div class="col-lg-7">
-            <img
-              class="img-fluid rounded mb-4 mb-lg-0"
-              src="http://placehold.it/900x400"
-              alt=""
-            />
-          </div>
           <div>
-            <p>Alejandro</p>
-            <p>Hantastic Portfolio</p>
-            <p>Trading Bot</p>
-            <p>Stargazer</p>
-            <p>Game Matcher</p>
+            <h2>Stargazer</h2>
+              <p>
+                Website for stargazing locations within South Korea Using JavaScript
+              </p>
+            <h2>Hantastic Portfolio</h2>
+              <p>
+                Website for Photograher and Videographer Hantastic Lee Using React
+              </p>
+            <h2>Trading Bot</h2>
+              <p>
+                Cryptocurrency and Korean Stock Market Trading Bot Using Python.
+              </p>
           </div>
           <div class="col-lg-5">
             <h1 class="font-weight-light">Programming</h1>
