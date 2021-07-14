@@ -1,4 +1,5 @@
 import React from "react";
+// import { Link } from 'react-router';
 import tanah from "../photos/tanah-lot.jpg"
 import '../App.css';
 
@@ -15,15 +16,13 @@ function Travel() {
             />
             <article>
 			        <h2> 라오스 사용법 </h2>
-				        <p>2019년 떠난 라오스 여행기</p>
+				        <img src="" alt=""/>
+                <p>2019년 떠난 라오스 여행기</p>
 				        <p>"그 3월, 내가 느꼈던 뜨거운 태양 아래의 추억들에 대한 나의 솔직한 담화들. 당신에게도 그 열정이 다다를 수 있도록 내 이야기를 전하고자 한다."</p>	
 		        </article>
             <article>
-              Korea Bike Trip
-              <button>
-                Keep Reading
-              </button>
-
+              <h2>Korea Bike Trip</h2>
+              {/* <Link to="">Keep Reading</Link> */}
             </article>
 
           </div>

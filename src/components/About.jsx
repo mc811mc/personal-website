@@ -13,18 +13,9 @@ function About() {
               src={profile} alt="profile picture"
             />
             <p>
-            Minho Cho.
+            Hi, I'm Minho Cho.
 
             I program and write articles about my travels.
-
-            Cerence
-            Seoul, Korea
-
-            Flitto
-            Seoul, Korea
-
-            Republic of Korea Army
-            Camp Humphreys, Korea
             </p>
           </div>
         </div>
