@@ -1,23 +1,23 @@
 import React from "react";
-import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
-import { Navigation, Footer, Home, Programming, Travel, Video, About } from "./components";
 
-function App() {
-  return (
-    <div className="App">
-      <Router>
-        <Navigation />
-        <Switch>
-          <Route path="/" exact component={() => <Home />} />
-          <Route path="/programming" exact component={() => <Programming />} />
-          <Route path="/travel" exact component={() => <Travel />} />
-          <Route path="/video" exact component={() => <Video />} />
-          <Route path="/about" exact component={() => <About />} />
-        </Switch>
-        <Footer />
-      </Router>
-    </div>
-  );
-}
+// Components
+import Main from './components/Main';
+import Programming from './components/Programming/Programming';
+import Travel from './components/Travel/Travel';
+import Youtube from './components/Youtube/Youtube';
+import About from './components/About/About';
+
+// Styles
+import { GlobalStyle } from './GlobalStyle';
+
+const App = () => (
+  <div className="App">
+    <Main />
+    <Programming />
+    <Travel />
+    <Youtube />
+    <About />
+  </div>
+);
 
 export default App;

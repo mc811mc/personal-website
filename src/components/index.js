@@ -1,7 +1,11 @@
-export { default as Navigation } from "./Navigation";
-export { default as Home } from "./Home";
-export { default as Programming } from "./Programming";
-export { default as Travel } from "./Travel";
-export { default as Video } from "./Video";
-export { default as About } from "./About";
-export { default as Footer } from "./Footer";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import App from './App';
+import { BRowserRouter as BrowserRouter} from 'react-router-dom';
+
+ReactDOM.render(
+  <BrowserRouter>
+    <App />
+  </BrowserRouter>,
+  document.getElementById('root')
+);
