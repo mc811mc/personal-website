@@ -14,6 +14,7 @@ function Youtube() {
                 allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
                 allowfullscreen
             />
+            <p>I'm a heavy airbnb user</p>
             <a href = "https://www.airbnb.com/c/mcho130?referral_share_id=dbd79969-594f-4f96-92d3-8ce168c19c91">AirbnbLinkedIn</a>
         </div>
     );
