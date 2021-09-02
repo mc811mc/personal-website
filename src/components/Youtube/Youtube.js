@@ -3,6 +3,9 @@ import React from "react";
 function Youtube() {
     return (
         <div>
+            <h2>Youtube</h2>
+            <p>I post memories I make with my friends so that my friends can see them as well   </p>
+            <p>I also feature in some videos my friends make</p>
             <iframe 
                 width="560" height="315" 
                 src="https://www.youtube.com/embed/bmVOjmPQM_o" 
