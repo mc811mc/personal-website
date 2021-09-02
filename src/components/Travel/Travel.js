@@ -35,6 +35,35 @@ function Travel() {
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
               allowfullscreen
             />
+            <p>
+            **0일차**
+
+            인천 집함 (8시)
+
+            **1일차 (140km)**
+
+            **아라서해갑문 (인천)** → 여의도 → 팔당 → 양수리 → 양평군청 → 여주
+
+            **2일차 (113km)**
+
+            여주 → 능암 → 수안보 → 문경읍
+
+            **3일차 (108km)**
+
+            문경읍 → 문경읍 → 안동
+
+            **4일차 (130km)**
+
+            안동 → 상주 → 낙동 → 구미
+
+            **5일차 (120km)** 
+
+            구미 → 왜관 → 다사읍 → 화원 → 현풍 → 합천 창녕보 → 부림면사무소
+
+            **6일차 (118km)**
+
+            부림면사무소 → 남지읍 → 하남읍 → **낙동강 하구둑 자전거길 인증센터**
+            </p>
           <div>
             <a href="https://www.instagram.com/minhocho.travel/">Instagram</a><br></br>
             <a href = "https://www.twitter.com/MinhoCho">Twitter</a>
