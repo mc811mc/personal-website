@@ -7,3 +7,7 @@ export const Wrapper = styled.div`
         object-fit: contain;
     }
 `;
+
+export const Content = styled.div`
+    display: flex;
+`;

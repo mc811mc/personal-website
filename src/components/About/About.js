@@ -1,16 +1,21 @@
 import React from 'react';
 
+// Images
 import profile from '../../images/profile-picture.JPG';
 
-function About() {
-    return (
-        <div>
+// Styling
+import { Wrapper, Content} from './About.styles';
+
+const About = () => (
+
+    <Wrapper>
+        <Content>
             <img 
-              id="profile"
-              src={profile} alt="profile picture"
+                id="profile"
+                src={profile} alt="profile picture"
             />
             <p>
-            Hi, I'm Minho Cho and welcome to my website.
+            Hi, I'm Minho Cho.
             <br />
             As you can tell, I program, travel, and write articles about my travels.
             <br />
@@ -20,9 +25,11 @@ function About() {
             <br />
             and my Instagram to read my articles.
             <br />
+            Feel free to reach out to me. I am always open for collaborations of any sort.
             </p>
-        </div>
-    )
-}
+            <a href = "https://www.linkedin.com/in/minhocho4/">LinkedIn</a>
+        </Content>
+    </Wrapper>
+)
 
 export default About;
