@@ -6,8 +6,10 @@ import profile from '../../images/profile-picture.JPG';
 // Styling
 import { Wrapper, Content} from './About.styles';
 
-const About = () => (
+// Translation
+import { useTranslation } from 'react-i18next';
 
+const About = () => (
     <Wrapper>
         <Content>
             <img 

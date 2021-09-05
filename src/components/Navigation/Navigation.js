@@ -5,6 +5,7 @@ import WebsiteLogo from '../../images/website-logo.svg';
 
 import { Wrapper, Content } from './Navigation.styles';
 
+// Translation
 import { useTranslation } from 'react-i18next';
 
 const Navigation = () => {
