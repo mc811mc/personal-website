@@ -12,7 +12,6 @@ const Home = () => (
             id="background"
             src={background} alt="background"
         />
-        <a href="">About Me</a>
     </Wrapper>
 )
 
