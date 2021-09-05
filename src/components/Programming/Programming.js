@@ -1,5 +1,8 @@
 import React from "react";
 
+// Translation
+import { useTranslation } from 'react-i18next';
+
 function Programming() {
     return (
         <div>
