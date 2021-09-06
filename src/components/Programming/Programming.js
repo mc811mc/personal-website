@@ -4,6 +4,7 @@ import React from "react";
 import { useTranslation } from 'react-i18next';
 
 function Programming() {
+    const { t } = useTranslation();
     return (
         <div>
             <h1>Programming</h1>
@@ -25,7 +26,11 @@ function Programming() {
 
                 In the future, we plan to think of ways to monetize the contents on Jusung's Instagram.  
                 
-                You can check out his work at [Itoccurs](https://www.instagram.com/itoccurs_to/) and [Jusung Kim](https://www.instagram.com/horololofly/).
+                <a href="/">{t('read more')}</a>
+
+                <a href="https://www.instagram.com/itoccurs_to/">Itoccurs</a>
+
+                You can check out his work at <a href="https://www.instagram.com/itoccurs_to/">Itoccurs</a> and <a href="https://www.instagram.com/horololofly/">Jusung Kim</a>
             </p>
             <h2>Star Watch</h2>
             <h3>In Progress</h3>
@@ -56,7 +61,9 @@ function Programming() {
 
                 <a href="https://www.notion.so/mc811mc/eddd19a25f504024bff23f37fff336b6">Star Watch Recruiting Page</a>
 
-                You can check out Dong Hwan's Github Repository [here](https://github.com/donghwan3518)
+                <a href="/">{t('read more')}</a>
+
+                You can check out Dong Hwan's Github Repository <a href="https://github.com/donghwan3518">here</a>
 
             </p>
             <h2>Hantastic Portfolio</h2>
@@ -75,9 +82,12 @@ function Programming() {
 
                 We are planning to make business plans to monetize his works. 
 
-                You can check out his work at [hantastic.lee](https://www.instagram.com/hantastic.lee/). 
+                You can check out his work at <a href="https://www.instagram.com/hantastic.lee/">Hantastic Lee</a>
 
                 You can check out his website at []().
+
+                <a href="/">{t('read more')}</a>
+
             </p>
             <h2>Programming Links</h2>
             <a href = "https://github.com/mc811mc">Github</a><br></br>
