@@ -12,4 +12,10 @@ export const Content = styled.div`
         display: flex;
         height: 50%;
     }
+
+    .sticky-nav {
+        position: sticky;
+        top: 0;
+    }
 `;
+

@@ -12,7 +12,7 @@ const Navigation = () => {
     const { t } = useTranslation();
     return ( 
         <Wrapper>
-            <Content>
+            <Content class="sticky-nav">
                 <Link to='/'>
                     <img src={WebsiteLogo} alt='website-logo'/>               
                 </Link>
