@@ -89,5 +89,3 @@ function Travel() {
 }
 
 export default Travel;
-
-//https://www.youtube.com/watch?v=xMNhDf5-hvk

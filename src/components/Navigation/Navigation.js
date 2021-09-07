@@ -13,26 +13,24 @@ const Navigation = () => {
     return ( 
         <Wrapper>
             <Content>
-                <BrowserRouter>
-                    <Link to='/'>
-                        <img src={WebsiteLogo} alt='website-logo'/>               
-                    </Link>
-                    <Link to='/'>
-                        {t('home')}
-                    </Link>
-                    <Link to='/'>
-                        {t('programming')}
-                    </Link>
-                    <Link to='/'>
-                        {t('travel')}
-                    </Link>
-                    <Link to='/'>
-                        {t('video')}
-                    </Link>
-                    <Link to='/'>
-                        {t('about')}
-                    </Link>
-                </BrowserRouter>
+                <Link to='/'>
+                    <img src={WebsiteLogo} alt='website-logo'/>               
+                </Link>
+                <Link to='/'>
+                    {t('home')}
+                </Link>
+                <Link to='/programming'>
+                    {t('programming')}
+                </Link>
+                <Link to='/travel'>
+                    {t('travel')}
+                </Link>
+                <Link to='/video'>
+                    {t('video')}
+                </Link>
+                <Link to='/about'>
+                    {t('about')}
+                </Link>
             </Content>
         </Wrapper>
     )

@@ -1,16 +1,18 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+
+// router
+import { BrowserRouter } from 'react-router-dom';
 
 // translation
 import './i18n/config';
 
 ReactDOM.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>,
+  <BrowserRouter>
+   <App />
+  </BrowserRouter>,
   document.getElementById('root')
 );
 
