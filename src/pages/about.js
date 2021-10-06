@@ -16,6 +16,7 @@ export default function About() {
               id="profile"
               src={profile} alt="profile picture"
             />
+            
             <a href = "https://www.linkedin.com/in/minhocho4/">LinkedIn</a>
         </div>
     )

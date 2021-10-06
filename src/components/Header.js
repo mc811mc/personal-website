@@ -1,8 +1,16 @@
 import * as React from "react"
 import { Link } from "gatsby"
+
+// styles
 import styled from 'styled-components'
+
+// icons
 import { FaBars } from 'react-icons/fa'
+
+// data
 import { menuData } from "../data/MenuData"
+
+// component
 import { Button } from "./Button"
 
 // translation
@@ -22,7 +30,7 @@ const Header = () => {
       </NavMenu>
       <NavBtn>
         <Button primary="true" round="true" >
-          Hello
+          Contact
         </Button>
       </NavBtn> 
     </Nav>
@@ -32,7 +40,7 @@ const Header = () => {
 export default Header
 
 const Nav = styled.nav`
-  background: red;
+  background: #0f4c81;
   height: 80px;
   display: flex;
   justify-content: space-between;

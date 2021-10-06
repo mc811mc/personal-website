@@ -48,7 +48,6 @@ export default function travel() {
             부림면사무소 → 남지읍 → 하남읍 → 낙동강 하구둑 자전거길 인증센터
             </p>
             <iframe 
-              width="560" height="315" 
               src="https://www.youtube.com/embed/WGBTuf2YD3o" 
               title="YouTube video player" 
               frameborder="0" 
@@ -57,7 +56,7 @@ export default function travel() {
             />
           <h2>Summer in Bali</h2>
           <div>
-            <iframe width="100%" height="56.25%"
+            <iframe
               src="https://www.youtube.com/embed/-RU4nbs-4NA" 
               title="YouTube video player" 
               frameborder="0" 
